@@ -13,7 +13,7 @@ OpenAI ✧ LabLabAI | ![GitHub contributors](https://img.shields.io/github/contr
 <div align="center">
 
 ## CV Genie
-CV Genie is a Chrome extension that automates the job application process, from generating customized CV and cover letter templates based on job descriptions to seamlessly submitting applications and tracking their status. It streamlines the process, saving users time and increasing their chances of securing job opportunities. 📃
+CVIFY is a Chrome extension that automates the job application process, from generating customized CV and cover letter templates based on job descriptions to seamlessly submitting applications and tracking their status. It streamlines the process, saving users time and increasing their chances of securing job opportunities. 📃
 
 [Click Here to see the demo](#)
 
