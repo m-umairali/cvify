@@ -25,11 +25,11 @@ CVIFY is a Chrome extension that automates the job application process, from gen
 
 [Umair](https://github.com/m-umairali)
 
-[Amir](#)
+[Amir](https://github.com/ASANinjaCoder)
 
-[3](#)
+[Harshini](https://github.com/dasriharshini)
 
-[4](#)
+[Rugbon](https://github.com/Loyakin)
 
 [5](#)
 
